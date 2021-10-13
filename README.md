@@ -1,3 +1,3 @@
 # Personal-Portfolio
-https://i.hizliresim.com/jaz42un.png
+<link src="https://i.hizliresim.com/jaz42un.png">
 
